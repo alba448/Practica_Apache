@@ -131,6 +131,10 @@ A continuación, abrimos el navegador y probamos las siguientes URLs:
 
 <img src="./images/loginPrivado.jpg" alt="archivos" style="padding-left:40px; padding-bottom:10px">
 
+Si ingresamos las credenciales correctas nos saldrá la siguiente página
+
 <img src="./images/net-privado.jpg" alt="archivos" style="padding-left:40px; padding-bottom:10px">
+
+Si no tenemos algun error en la url nos saldrá el siguiente mensaje
 
 <img src="./images/seguro.net-error404.jpg" alt="archivos" style="padding-left:40px; padding-bottom:80px">
